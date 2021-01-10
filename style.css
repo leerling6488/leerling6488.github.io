@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.5), #F5F5DC),url(galametdeboys.jpeg);
+    height: 110vh;
+    background-size: cover;
+    background-position: center;        
+} 
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #D0D09B;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #606026;
+}
+
+
+.main {
+    max-width: 1200px
+        margin: auto;
+}
+
+.title {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.title h1 {
+    color: #fff;
+    font-size: 200px;
+}
+
+.title p1{
+    color: #fff;
+    font-size: 20px;
+    margin: auto;
+    position: absolute; 
+    text-align: center
+}
+
+.title h2{
+    color: #fff;
+    font-size:100px;
+}
+
+.title p2{
+    color: #fff;
+    font-size: 20px;
+    margin: auto;
+    position: absolute;
+}
+
+.title h3{
+    color: #fff;
+    font-size:100px;
+}
+
+.title p3{
+    color: #fff;
+    font-size: 20px;
+    margin: auto;
+    position: absolute;
+}
+
+
+.right1{
+    height: 240px;
+    width: 330px;
+    top: 800%;
+    float: right;
+    clear: right;
+    right: 50%;
+    margin: 0,5em 0 1em 1em 0; 
+    border: 1px solid #999;
+}
+
+.left1{
+    height: 240px;
+    width: 350px;
+    top: 80%;
+    float: left;
+    clear: left;
+    right: 50%;
+    margin: 0,5em 0 1em 1em; 
+    border: 1px solid #999;
+}
+
+
+.right2{
+    height: 240px;
+    width: 330px;
+    top: 80%;
+    float: right;
+    clear: right;
+    right: 50%;
+    margin: 0,5em 0 1em 1em; 
+    border: 1px solid #999;
+}
+
+
+.left2{
+    height: 240px;
+    width: 350px;
+    top: 80%;
+    float: left;
+    clear: left;
+    right: 50%;
+    margin: 0,5em 0 1em 1em; 
+    border: 1px solid #999;
+}
+
+.right3{
+    height: 240px;
+    width: 330px;
+    top: 80%;
+    float: right;
+    clear: right;
+    right: 50%;
+    margin: 0,5em 0 1em 1em; 
+    border: 1px solid #999;
+}
+
+.left3{
+    height: 240px;
+    width: 350px;
+    top: 80%;
+    float: left;
+    clear: left;
+    right: 50%;
+    margin: 0,5em 0 1em 1em; 
+    border: 1px solid #999;
+}
+
+.right4{
+    height: 240px;
+    width: 330px;
+    top: 80%;
+    float: right;
+    clear: right;
+    right: 50%;
+    margin: 0,5em 0 1em 1em; 
+    border: 1px solid #999;
+}
+
+.left4{
+    height: 240px;
+    width: 350px;
+    top: 80%;
+    float: left;
+    clear: left;
+    right: 50%;
+    margin: 0,5em 0 1em 1em; 
+    border: 1px solid #999;
+}
+
+    
